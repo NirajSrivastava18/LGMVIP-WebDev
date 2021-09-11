@@ -4,4 +4,4 @@
 
 A Single Page Website
 
-![](images/readme.png)
+![](task-1/images/readme.png)
