@@ -1,0 +1,38 @@
+.UserCard {
+  margin: 2rem;
+  min-width: 27.5rem;
+  background-color: #141414;
+  height: 33rem;
+  border-radius: 50px;
+  display: flex;
+  padding: 3rem 2rem;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 1rem 2rem rgba(20, 20, 20, 0.5);
+  background: rgb(20, 20, 20);
+  background: linear-gradient(10deg, rgba(20, 20, 20, 1) 59%, #01bf71 77%);
+}
+.UserCard-avatar {
+  border-radius: 50%;
+  width: 15rem;
+  overflow: hidden;
+  height: 15rem;
+}
+
+.UserCard-avatar img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.UserCard h1 {
+  color: #f1f1f1;
+  font-size: 2.5rem;
+  margin: 2rem;
+  margin-bottom: 1.75rem;
+}
+
+.UserCard p {
+  color: #01bf71;
+  font-size: 1.75rem;
+  font-weight: bold;
+}
