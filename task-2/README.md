@@ -4,4 +4,4 @@
 
 Create A web Application using ReactJS
 
-![](src/readmeImg/task-2.png)
+![](task-2/src/readmeImg/task-2.png)

@@ -33,8 +33,8 @@ const Main = () => {
                 <UserCard
                   key={user.id}
                   email={user.email}
-                  firstName={user.first_name}
-                  lastName={user.last_name}
+                  FirstName={user.first_name}
+                  LastName={user.last_name}
                   avatar={user.avatar}
                 />
               );
