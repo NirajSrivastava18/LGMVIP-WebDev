@@ -10,4 +10,4 @@ A Single Page Website
 
 Create A web Application using ReactJS
 
-![](Task-1/images/task-2.png)
+![](task-2/src/readmeImg/task-2.png)
